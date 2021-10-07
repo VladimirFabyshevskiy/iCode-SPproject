@@ -1,0 +1,76 @@
+{
+  "Database": [
+    {
+      "City": "Calgary",
+      "Gender": "Male",
+      "Age": "18-25",
+      "Sport": "Tennis",
+      "Date": "2021-10-28T12:40",
+      "id": 1
+    },
+    {
+      "City": "Calgary",
+      "Gender": "Female",
+      "Age": "35-50",
+      "Sport": "Yoga",
+      "Date": "2021-11-05T06:00",
+      "id": 2
+    },
+    {
+      "City": "Calgary",
+      "Gender": "Other",
+      "Age": "25-35",
+      "Sport": "Badminton",
+      "Date": "2021-10-28T03:53",
+      "id": 3
+    },
+    {
+      "City": "Edmonton",
+      "Gender": "Male",
+      "Age": "35-50",
+      "Sport": "Wrestling",
+      "Date": "2021-11-29T19:59",
+      "id": 4
+    },
+    {
+      "City": "Edmonton",
+      "Gender": "Other",
+      "Age": "50+",
+      "Sport": "Yoga",
+      "Date": "2021-11-03T18:00",
+      "id": 5
+    },
+    {
+      "City": "Calgary",
+      "Gender": "Male",
+      "Age": "35-50",
+      "Sport": "Badminton",
+      "Date": "2021-11-02T18:01",
+      "id": 6
+    },
+    {
+      "City": "Calgary",
+      "Gender": "Male",
+      "Age": "25-35",
+      "Sport": "Basketball",
+      "Date": "2021-10-25T20:46",
+      "id": 7
+    },
+    {
+      "City": "Calgary",
+      "Gender": "Female",
+      "Age": "35-50",
+      "Sport": "",
+      "Date": "2021-11-01T20:52",
+      "id": 8
+    },
+    {
+      "City": "Calgary",
+      "Gender": "Male",
+      "Age": "25-35",
+      "Sport": "Basketball",
+      "Date": "2021-10-13T21:07",
+      "id": 9
+    }
+  ]
+}
